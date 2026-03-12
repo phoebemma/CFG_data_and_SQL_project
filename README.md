@@ -1,0 +1,1 @@
+This project was submitted as part of the CFG data and SQL course. It contains the codes for the maintaining oversight oer the logistics arm if a multi-region retail chain to ensure very efficient delivery of goods. Priority is given to certain deliveries such as highly perishable goods
